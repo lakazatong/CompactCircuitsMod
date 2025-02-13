@@ -2,16 +2,16 @@
 
 current_dir=$(basename "$PWD")
 
-# ExampleMod -> example_mod
+# CompactCircuitsMod -> compact_circuits_mod
 replacement_base=$(echo "$current_dir" | sed -E 's/([a-z])([A-Z])/\1_\2/g' | tr '[:upper:]' '[:lower:]')
 
 original_variants=(
-	"example_mod"
-	"example mod"
-	"examplemod"
-	"Example_Mod"
-	"Example Mod"
-	"ExampleMod"
+	"compact_circuits_mod"
+	"compact circuits mod"
+	"compactcircuitsmod"
+	"Compact_Circuits_Mod"
+	"Compact Circuits Mod"
+	"CompactCircuitsMod"
 )
 
 replacement_variants=(

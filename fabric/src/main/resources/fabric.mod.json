@@ -16,10 +16,10 @@
     "environment": "*",
     "entrypoints": {
         "main": [
-            "in.lakazatong.examplemod.ExampleModFabric"
+            "in.lakazatong.compactcircuitsmod.CompactCircuitsModFabric"
         ],
         "client": [
-            "in.lakazatong.examplemod.ExampleModFabric"
+            "in.lakazatong.compactcircuitsmod.CompactCircuitsModFabric"
         ]
     },
     "depends": {
