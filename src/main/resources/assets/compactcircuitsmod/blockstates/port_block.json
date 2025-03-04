@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"is_input=true,is_open=false": { "model": "compactcircuitsmod:block/port_block_input_close" },
+		"is_input=true,is_open=true": { "model": "compactcircuitsmod:block/port_block_input_open" },
+		"is_input=false,is_open=false": { "model": "compactcircuitsmod:block/port_block_output_close" },
+		"is_input=false,is_open=true": { "model": "compactcircuitsmod:block/port_block_output_open" }
+	}
+}

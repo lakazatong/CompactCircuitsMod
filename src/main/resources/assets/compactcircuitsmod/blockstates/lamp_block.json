@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"clicked=true": { "model": "compactcircuitsmod:block/lamp_block_on" },
+		"clicked=false": { "model": "compactcircuitsmod:block/lamp_block_off" }
+	}
+}

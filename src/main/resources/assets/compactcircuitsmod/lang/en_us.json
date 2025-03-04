@@ -1,0 +1,35 @@
+{
+	"word.compactcircuitsmod.input": "Input",
+	"word.compactcircuitsmod.output": "Output",
+
+	"word.compactcircuitsmod.done": "Done",
+	"word.compactcircuitsmod.cancel": "Cancel",
+
+	"word.compactcircuitsmod.front": "Front",
+	"word.compactcircuitsmod.back": "Back",
+	"word.compactcircuitsmod.right": "Right",
+	"word.compactcircuitsmod.left": "Left",
+	"word.compactcircuitsmod.up": "Up",
+	"word.compactcircuitsmod.down": "Down",
+
+	"common.compactcircuitsmod.circuit_id": "Circuit ID",
+
+	"block.compactcircuitsmod.hub_block": "Hub Block",
+	"block.compactcircuitsmod.port_block": "Port Block",
+	"block.compactcircuitsmod.lamp_block": "Lamp",
+
+	"item.compactcircuitsmod.magic_wand": "Magic Wand",
+
+	"tab.compactcircuitsmod.name": "Compact Circuits",
+
+	"gui.compactcircuitsmod.hub_config_screen.title": "Hub Config",
+
+	"gui.compactcircuitsmod.port_config_screen.title": "Port Config",
+	"gui.compactcircuitsmod.port_config_screen.port_number": "Port Number",
+	"gui.compactcircuitsmod.port_config_screen.bus_size": "Bus Size",
+
+	"gui.compactcircuitsmod.lamp_screen.title": "Lamp",
+
+	"gui.compactcircuitsmod.name_tag_rename_screen.title": "Name Tag Rename",
+	"gui.compactcircuitsmod.name_tag_rename_screen.name_field": "Name"
+}
